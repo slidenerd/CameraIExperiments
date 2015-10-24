@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_media_store_gallery"
+        android:orderInCategory="100"
+        android:title="Media Store Gallery" />
+    <item
+        android:id="@+id/action_snapshot_surface_view"
+        android:orderInCategory="200"
+        android:title="Snapshot Surface View" />
+    <item
+        android:id="@+id/action_timer_snapshot_surface_view"
+        android:orderInCategory="300"
+        android:title="Timer Snapshot Surface View" />
+</menu>
